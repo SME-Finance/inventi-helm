@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   config:
   - apiVersion: v1
-    created: "2022-11-28T20:19:57.82279331+02:00"
+    created: "2023-01-17T17:01:29.7592212+02:00"
     description: Configuration for springboot based services
     digest: a9c3213387fec16f7ea3eb85fad34607d52fe62f88368c6734ac563b11e29c56
     keywords:
@@ -15,127 +15,127 @@ entries:
     sources:
     - https://github.com/inventi/helm
     urls:
-    - https://inventi.github.io/helm/config-0.1.0.tgz
+    - https://sme-finance.github.io/inventi-helm/config-0.1.0.tgz
     version: 0.1.0
   springboot:
   - apiVersion: v1
-    created: "2022-11-28T20:19:57.831704998+02:00"
+    created: "2023-01-17T17:01:29.9079346+02:00"
     description: A Helm chart for Kubernetes
     digest: 3eea879783096d9966e08aececaa54741aea003ce89285a8b91a31012985f4a2
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.6.1.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.6.1.tgz
     version: 1.6.1
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.562344942+02:00"
+    created: "2023-01-17T17:01:29.9004188+02:00"
     description: A Helm chart for Kubernetes
     digest: deab7139f411d485a5f061cf14c2c362c860ee46b57fbbcc3eb4d66494f1c999
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.6.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.6.0.tgz
     version: 1.6.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.561849988+02:00"
+    created: "2023-01-17T17:01:29.8925303+02:00"
     description: A Helm chart for Kubernetes
     digest: c4563c66144a97bef5b66cb2c1dfa320b2a13e079132895f58119573b6753068
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.5.3.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.5.3.tgz
     version: 1.5.3
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.561206401+02:00"
+    created: "2023-01-17T17:01:29.8773827+02:00"
     description: A Helm chart for Kubernetes
     digest: cfabe4f3ca2aa94002aa6e1756b3e2c1ba8b9888efba56fa1fcf203417709058
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.5.2.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.5.2.tgz
     version: 1.5.2
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.560825725+02:00"
+    created: "2023-01-17T17:01:29.8672156+02:00"
     description: A Helm chart for Kubernetes
     digest: 35e44bfc1003880e7c353929373a3f09634a9d84f1e83461b41b2fe11d15912f
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.5.1.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.5.1.tgz
     version: 1.5.1
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.560449293+02:00"
+    created: "2023-01-17T17:01:29.8612178+02:00"
     description: A Helm chart for Kubernetes
     digest: cc7dd2d744e1bd9ab31818d28b2c00171937c60acbd6095333b36b81325f5f8e
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.5.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.560036923+02:00"
+    created: "2023-01-17T17:01:29.8542191+02:00"
     description: A Helm chart for Kubernetes
     digest: 5710852cee543730305ed996d0b9fdd8f8bc016a407d29533707b47f97add0cc
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.4.1.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.559638016+02:00"
+    created: "2023-01-17T17:01:29.8465053+02:00"
     description: A Helm chart for Kubernetes
     digest: 9745f31454e66fc216c2437574fcf97ac4ea1761906128ae0d49ea46e68e09e9
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.4.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.559037233+02:00"
+    created: "2023-01-17T17:01:29.8388735+02:00"
     description: A Helm chart for Kubernetes
     digest: e635eb668852c15abc4f68955ed9866ef755713769ba417bc95b12ec6aaea6b9
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.3.1.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.558397656+02:00"
+    created: "2023-01-17T17:01:29.8295922+02:00"
     description: A Helm chart for Kubernetes
     digest: ddb9b73fd75ab0473a6a6360352802ee480ebeb24a006af0a4cef0ac74dcaee7
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.3.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.556748089+02:00"
+    created: "2023-01-17T17:01:29.8169353+02:00"
     description: A Helm chart for Kubernetes
     digest: 2c19fe4c22b1d7a89d90ec71ca929c38fb67a7d1d5a94691bbed5995b4856470
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.2.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.556263464+02:00"
+    created: "2023-01-17T17:01:29.7971993+02:00"
     description: A Helm chart for Kubernetes
     digest: 313f445bb99521c808e9af3df5537b809525b6926d5385c02e8073ffc0442901
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.1.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.555902256+02:00"
+    created: "2023-01-17T17:01:29.7865412+02:00"
     description: A Helm chart for Kubernetes
     digest: 32c1e3396e1c68ed82f3dfbd89c21baef27d5c4f6481b8a8175e0e4f6c4017e7
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-1.0.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.555654583+02:00"
+    created: "2023-01-17T17:01:29.7776148+02:00"
     description: A Helm chart for Kubernetes
     digest: 4d9579ac8d49dbbb1418bff363bf12fbaa528215ab9bf63de9aca363b29948dd
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-0.2.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: "2022-11-03T09:52:02.555264023+02:00"
+    created: "2023-01-17T17:01:29.7695192+02:00"
     description: A Helm chart for Kubernetes
     digest: d5b04a55bb6cc6b78c0ff7a6d8ca5b4db473a8acf4186a5256a0f87b22866b92
     name: springboot
     urls:
-    - https://inventi.github.io/helm/springboot-0.1.0.tgz
+    - https://sme-finance.github.io/inventi-helm/springboot-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-28T20:19:57.821898117+02:00"
+generated: "2023-01-17T17:01:29.7502235+02:00"
